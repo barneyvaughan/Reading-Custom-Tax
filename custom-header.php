@@ -1,11 +1,8 @@
 <!-- 
-
 Custom Header Image Code based on a page/posts featured image
 Author: Barney Vaughan
+-->   
 
-
-
--->    
     <!--If home or front page -->
    	 <?php if( is_home() || is_front_page() ) : ?>
 		/*Do something*/
